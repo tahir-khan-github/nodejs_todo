@@ -37,3 +37,7 @@ split routing can be done using router, also we can use prefixes using router eg
 error handling using middlware
 
 CORS is a browser security feature that allows client web applications to interact with resources in another domain.
+
+for readme.md file use StackEdit
+
+render.com for deployment
